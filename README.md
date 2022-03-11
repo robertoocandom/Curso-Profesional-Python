@@ -9,4 +9,6 @@ Temas Principales
 - Manejo de Libreria mypy
 - Closures
 - Funciones Decoradoras
-- 
+- Iteradores
+- Sets
+- Manejo de Fechas
